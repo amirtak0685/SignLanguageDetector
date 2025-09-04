@@ -13,7 +13,7 @@ A **Python-based Sign Language Interpreter** that translates hand gestures into 
 ```bash
 git https://github.com/amirtak0685/SignLanguageDetector.git
 cd SignLanguageDetector
-
+```
 ## How to run
 
 Follow the steps outlined in Tutorial.ipynb to run the program
